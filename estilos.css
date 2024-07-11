@@ -15,13 +15,13 @@ body{
 h1{
 	color:#6e5c02;
 	text-align:center;
-	font-family :"AWAKENNING Personal Use";
+	font-family: AWAKENNING Personal Use, sans-seriff;
 	border-bottom:dotted;
 	border-color:white;
   }
 h2{
 	color:#638729;
-	font-family :"AWAKENNING Personal Use";
+	font-family: AWAKENNING Personal Use, sans-seriff;
 	
   }
  p{
@@ -38,11 +38,11 @@ table{
 	font-family: Hey Comic,serif;
      }
 .nosotros{
-	display:block;
-	margin:auto;
+	display: block;
+	margin: auto;
          }	 
 ul{
-	color:#665a42;
+	color: #665a42;
 	font-family: Hey Comic,serif;
   }
  img{
