@@ -50,6 +50,7 @@ ul{
      margin : auto;
  }
 .iconos{
+	display: inline;
 	margin:2%;
        }
 a:link{
