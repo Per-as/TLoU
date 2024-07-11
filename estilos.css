@@ -1,0 +1,72 @@
+@font-face{
+font-family :"AWAKENNING Personal Use";
+src :url("fuentes/AWAKENNING Personal Use.Ttf");
+}
+@font-face{
+font-family :"Hey Comic";
+src :url("fuentes/Hey Comic.otf");
+}
+body{
+	 background-image:url("imagenes/fondos/luci1.png");
+	 background-attachment:fixed;
+	 background-size:cover;
+	
+    }
+h1{
+	color:#6e5c02;
+	text-align:center;
+	font-family :"AWAKENNING Personal Use";
+	border-bottom:dotted;
+	border-color:white;
+  }
+h2{
+	color:#638729;
+	font-family :"AWAKENNING Personal Use";
+	
+  }
+ p{
+	 color:white;
+	 text-shadow:1px 1px 3px black;
+     font-family: Hey Comic,serif;	
+	 margin-left:1%;
+     margin-right:1%;
+  }
+
+table{
+	color:white;
+	background-color:black;
+	font-family: Hey Comic,serif;
+     }
+.nosotros{
+	display:block;
+	margin:auto;
+         }	 
+ul{
+	color:#665a42;
+	font-family: Hey Comic,serif;
+  }
+ img{
+	 display: block;
+     margin : auto;
+ }
+.iconos{
+	margin:2%;
+       }
+a:link{
+	color:#665a42;
+	margin-right:2%;
+	border-bottom:dotted; 
+	text-decoration:none;
+}
+ a:visited{
+	color:#665a42;
+	margin-right:2%;
+	border-bottom:dotted; 
+}
+         	
+a:hover{
+	color:#a0ba75;
+	border-bottom:groove; 
+       }	  
+	  
+	  
